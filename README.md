@@ -1,14 +1,14 @@
-# ✍️ Handwritten Character Recognition
+#  Handwritten Character Recognition
 
 ### CodeAlpha Machine Learning Internship – Task 1
 
-## 📌 Project Overview
+##  Project Overview
 
 Handwritten Character Recognition is a Machine Learning project that finds alphabets from A to Z and digits from 0 to 9 in pictures that are uploaded or taken with a camera.
 
 The project uses Convolutional Neural Networks built with TensorFlow to sort characters and show the predicted character and its confidence score.
 
-## 🚀 Features
+##  Features
 
 - Handwritten Character Recognition recognizes alphabets from A to Z.
 
@@ -26,7 +26,7 @@ The project uses Convolutional Neural Networks built with TensorFlow to sort cha
 
 - Handwritten Character Recognition offers an interactive web interface using Streamlit.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 
@@ -44,7 +44,7 @@ The project uses Convolutional Neural Networks built with TensorFlow to sort cha
 
 - TensorFlow Datasets
 
-## 🧠 Machine Learning Models
+##  Machine Learning Models
 
 Handwritten Character Recognition uses two Convolutional Neural Network models.
 
@@ -68,7 +68,7 @@ Handwritten Character Recognition uses two Convolutional Neural Network models.
 
 - Output: Predicted digit and confidence score.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 
@@ -102,7 +102,7 @@ Handwritten_Character_Recognition/
 
 ```
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Alphabet Recognition
 ![Alphabet Recognition](screenshots/letter.png)
@@ -116,7 +116,7 @@ Handwritten_Character_Recognition/
 
 ![incorrect Recognition](screenshots/wrong prediction.png)
 
-## ⚙️ Installation and Execution
+##  Installation and Execution
 
 **Step 1: Clone the repository**
 
@@ -154,7 +154,8 @@ python -m streamlit run app.py
 
 Choose Alphabet Recognition or Digit Recognition upload an image or take a photo and click Predict.
 
-## 🎥 Project Demonstration
+## 
+Project Demonstration
 
 A demonstration video showing the working application and its features is available here:
 
